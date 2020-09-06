@@ -1,0 +1,30 @@
+作物生產數據紀錄 CPDR
+生產履歷 PH+PH2(列表)
+生產預測 prediction
+
+作物管理 CM
+設備管理 SM+SM1
+設備管理模組 DMM
+感測設備控管 SDC
+
+溫室管理 GMM
+
+歷史紀錄  History
+
+index 首頁
+member_admin 管理者中心
+member_adminupdate 管理者的修改資料
+member_center 會員中心
+member_update 會員中心的修改資料
+member_join 會員註冊
+MYSQL 資料庫的相關設定
+
+Diary 日誌 新增+總覽
+Diary1 日誌詳細內容+留言
+Diary_all 已登入看他人日誌
+Diary_all1 已登入 看他人日誌總攬
+Diary_all2 已登入 看他人日誌詳細內容+留言
+Diary_c 未登入者 選他人日誌
+Diary_view  未登入者 看他人日誌總覽
+Diary_view1 未登入者 看他人日誌詳細內容+留言
+connMysql2 學長資料庫的相關設定
